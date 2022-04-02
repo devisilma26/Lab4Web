@@ -422,3 +422,20 @@ float: right;
 }
 
 ```
+
+## PERTANYAAN DAN TUGAS
+
+## 1). TAMBAHKAN LAYOUT UNTUK MENU ABOUT
+![about](img/about.png)
+
+***contoh menu about***
+
+ini adalah contoh menu about
+
+
+## 2). TAMBAHKAN DESKRIPSI KONTAK
+![kontak](img/kontak.png)
+
+***contoh kontak***
+
+ini adalah contoh menu kontak
